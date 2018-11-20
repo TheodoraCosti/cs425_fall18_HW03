@@ -215,8 +215,8 @@ session_start();
                             <h4><input type="radio" name="answer" value="3"> <?php echo $answerC; ?></input></h4><br>
                             <?php
                             $qNum = sizeof($_SESSION['result_array']);
-                            $questionsLeft = 5 - $qNum;
-                            if ($qNum < 5) {
+                            $questionsLeft = 25 - $qNum;
+                            if ($qNum < 25) {
                                 ?>
                                 <input type="submit" name="next" value="NEXT">
                                 <?php
