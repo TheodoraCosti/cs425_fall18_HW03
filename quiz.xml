@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <ADVANCE>
+            <Question Text="Who said:It is rare for me to meet a Lannister who shares my enthusiasm for dead Lannisters.?">
+                <answer Correct="false">Cersei Lannister</answer>
+                <answer Correct="false">Tyrion Lannister</answer>
+                <answer Correct="true">Oberyn Martell</answer>
+            </Question>
+
+            <Question Text="Who said:The things I do for love.?">
+                <answer Correct="true">Jaime Lannister</answer>
+                <answer Correct="false">Cersei Lannister</answer>
+                <answer Correct="false">Joffrey Baratheon</answer>
+            </Question>
+
+            <Question Text="Who said:It's not easy being drunk all the time. If it were easy, everyone would do it.?">
+                <answer Correct="false">Robert Baratheon</answer>
+                <answer Correct="true">Tyrion Lannister</answer>
+                <answer Correct="false">Cersei Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:When you play the game of thrones, you win or you die.?">
+                <answer Correct="false">Ned Stark</answer>
+                <answer Correct="false">Daenerys Targaryen</answer>
+                <answer Correct="true">Cersei Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:All men must die, Jon Snow. But first, we'll live.?">
+                <answer Correct="false">Samwell Tarly</answer>
+                <answer Correct="true">Ygritte</answer>
+                <answer Correct="false">Gilly</answer>
+            </Question>
+
+            <Question Text="Who said:A lion does not concern himself with the opinion of sheep.?">
+                <answer Correct="true">Tywin Lannister</answer>
+                <answer Correct="false">Ramsay Bolton</answer>
+                <answer Correct="false">Tyrion Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:A Lannister always pays his debts.?">
+                <answer Correct="false">Tywin Lannister</answer>
+                <answer Correct="true">All Lannisters, all the time</answer>
+                <answer Correct="false">Tyrion Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:A day will come when you think yourself safe and happy, and your joy will turn to ashes in your mouth. And you will know the debt is paid.?">
+                <answer Correct="false">Catelyn Stark</answer>
+                <answer Correct="false">Cersei Lannister</answer>
+                <answer Correct="true">Tyrion Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:The night is dark and full of terrors.?">
+                <answer Correct="false">Jon Snow</answer>
+                <answer Correct="false">Stannis Baratheon</answer>
+                <answer Correct="true">Melisandre</answer>
+            </Question>
+
+            <Question Text="Who said:A dragon is not a slave.?">
+                <answer Correct="true">Daenerys Targaryen</answer>
+                <answer Correct="false">Khal Drogo</answer>
+                <answer Correct="false">Missandei</answer>
+            </Question>
+
+            <Question Text="Who said:Valar Morghulis.?">
+                <answer Correct="false">Barristan Selmy</answer>
+                <answer Correct="true">Arya Stark</answer>
+                <answer Correct="false">Podrick Payne</answer>
+            </Question>
+
+            <Question Text="Who Cersei told:If you ever call me sister again, I'll have you strangled in your sleep.?">
+                <answer Correct="false">Sansa Stark</answer>
+                <answer Correct="false">Arya Stark</answer>
+                <answer Correct="true">Margaery Tyrell</answer>
+            </Question>
+
+            <Question Text="Who said:The Lannisters send their regards.?">
+                <answer Correct="true">Roose Bolton</answer>
+                <answer Correct="false">Petyr Baelish</answer>
+                <answer Correct="false">Tyrion Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:Nothing isn't better or worse than anything. Nothing is just nothing.?">
+                <answer Correct="false">A random stranger to Arya and The Hound</answer>
+                <answer Correct="false">The Hound</answer>
+                <answer Correct="true">Arya Stark</answer>
+            </Question>
+
+            <Question Text="Who said:All men must die. But we are not men.?">
+                <answer Correct="true">Daenerys Targaryen</answer>
+                <answer Correct="false">Cersei Lannister</answer>
+                <answer Correct="false">The White Walkers</answer>
+            </Question>
+
+            <Question Text="Who said:You're no son of mine.?">
+                <answer Correct="false">Ned Stark</answer>
+                <answer Correct="false">Robert Baratheon</answer>
+                <answer Correct="true">Tywin Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:Dog, I command you to go back up there and fight!?">
+                <answer Correct="false">Tywin Lannister</answer>
+                <answer Correct="true">Joffrey Baratheon</answer>
+                <answer Correct="false">Cersei Lannister</answer>
+            </Question>
+
+            <Question Text="Who said:When we get married, you can tell me if you don't like somebody and then we can bring them back here and, whoosh! Right through the Moon Door.?">
+                <answer Correct="true">Robin Arryn</answer>
+                <answer Correct="false">Lysa Arryn</answer>
+                <answer Correct="false">Petyr Baelish</answer>
+            </Question>
+
+            <Question Text="Who said:I was told you were drunk, impertinent and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookkeeper.?">
+                <answer Correct="false">Podrick Payne</answer>
+                <answer Correct="false">Jorah Mormont</answer>
+                <answer Correct="true">Olenna Tyrell</answer>
+            </Question>
+
+            <Question Text="Who said:One day I pray you love someone. I pray you love her so much, when you close your eyes, you see her face. I want that for you. I want you to know what it's like to love someone, truly love someone, before I take her from you. ?">
+                <answer Correct="true">Cersei Lannister</answer>
+                <answer Correct="false">Tyrion Lannister</answer>
+                <answer Correct="false">Robb Stark</answer>
+            </Question>
+
+            <Question Text="Who said:I choose my allies carefully and my enemies more carefully still.?">
+                <answer Correct="false">Arya Stark</answer>
+                <answer Correct="true">Varys</answer>
+                <answer Correct="false">Jaqen H'ghar</answer>
+            </Question>
+
+            <Question Text="Who said:The usurper Robb Stark. The usurper Balon Greyjoy. The usurper Joffrey Baratheon.?">
+                <answer Correct="true">Stannis Baratheon</answer>
+                <answer Correct="false">Jaime Lannister</answer>
+                <answer Correct="false">Daenerys Targaryen</answer>
+            </Question>
+
+            <Question Text="Who said:If this is a dream, I will kill the man who tries to wake me.?">
+                <answer Correct="false">Ned Stark</answer>
+                <answer Correct="true">Khal Drogo</answer>
+                <answer Correct="false">Patchface</answer>
+            </Question>
+
+            <Question Text="Who said:You fight pretty good for a little girl.?">
+                <answer Correct="false">Jorah Mormont</answer>
+                <answer Correct="false">Jaime Lannister</answer>
+                <answer Correct="true">Bronn</answer>
+            </Question>
+
+            <Question Text="Who said:When I was a child, I was very small and I come from a little spit of land called 'The Fingers,' so you see it's an exceedingly clever nickname. ?">
+                <answer Correct="true">Petyr Baelish</answer>
+                <answer Correct="false">Rickon Stark</answer>
+                <answer Correct="false">The Hound</answer>
+            </Question>
+    </ADVANCE>
+    
+    <MEDIUM>
+            <Question Text="When is Harry Potter's birthday?">
+                <answer Correct="false">31 July 1981</answer>
+                <answer Correct="true">31 July 1980</answer>
+                <answer Correct="false">30 July 1981</answer>
+            </Question>
+
+            <Question Text="What is Harry's middle name?">
+                <answer Correct="false">Peter</answer>
+                <answer Correct="false">Albus</answer>
+                <answer Correct="true">James</answer>
+            </Question>
+
+            <Question Text="Which Muggle school was Harry supposed to attend before getting his Hogwarts letter?">
+                <answer Correct="false">Cokeworth High</answer>
+                <answer Correct="true">Stonewall High</answer>
+                <answer Correct="false">St Brutus's</answer>
+            </Question>
+
+            <Question Text="In which book does Harry find the name for his pet owl, Hedwig?">
+                <answer Correct="false">Fantastic Beasts and Where to Find Them</answer>
+                <answer Correct="false">Hogwarts: A History</answer>
+                <answer Correct="true">A History of Magic</answer>
+            </Question>
+
+            <Question Text="How many birthday cakes did Harry receive when he turned 14?">
+                <answer Correct="false">5</answer>
+                <answer Correct="false">2</answer>
+                <answer Correct="true">4</answer>
+            </Question>
+
+            <Question Text="Which of the following potions is believed to not have been invented by the Potter family?">
+                <answer Correct="true">Felix Felicis</answer>
+                <answer Correct="false">Pepperup Potion</answer>
+                <answer Correct="false">Skele-gro</answer>
+            </Question>
+
+            <Question Text="Romilda Vane asks if Harry has which creature tattooed on his chest?">
+                <answer Correct="false">Unicorn</answer>
+                <answer Correct="true">Hippogriff</answer>
+                <answer Correct="false">Acromantula</answer>
+            </Question>
+
+            <Question Text="According to Lockhart's 'card-carrying Cupid', Harry's eyes are as green as...?">
+                <answer Correct="false">An Irish Spring morn</answer>
+                <answer Correct="false">An emerald-green cloack</answer>
+                <answer Correct="true">A fresh pickled toad</answer>
+            </Question>
+
+            <Question Text="Which grade is Harry awarded for his History of Magic O.W.L. exam?">
+                <answer Correct="false">P</answer>
+                <answer Correct="true">D</answer>
+                <answer Correct="false">A</answer>
+            </Question>
+
+            <Question Text="Which of the following injuries does Madam Pomfrey treat Harry for?">
+                <answer Correct="false">Dragon bite, Petrification</answer>
+                <answer Correct="true">Missing bones,Cracked skull</answer>
+                <answer Correct="false">Skrewt burns,Stinging jinx</answer>
+            </Question>
+
+            <Question Text="Which book does Harry think about to distract himself from Aunt Marge’s insults?">
+                <answer Correct="false">Quidditch Teams of Britain and Ireland</answer>
+                <answer Correct="false">Flying with the Cannons</answer>
+                <answer Correct="true">Handbook of Do-It-Yourself Broomcare</answer>
+            </Question>
+
+            <Question Text="Who is called as a witness in Harry’s Wizengamot trial?">
+                <answer Correct="false">Dobby</answer>
+                <answer Correct="false">Dudley Dursley</answer>
+                <answer Correct="true">Mrs Figg</answer>
+            </Question>
+
+            <Question Text="Which member of the Potter family married Iolanthe Peverell?">
+                <answer Correct="false">Ralston</answer>
+                <answer Correct="true">Hardwin</answer>
+                <answer Correct="false">Linfred</answer>
+            </Question>
+
+            <Question Text="Which colour does Polyjuice Potion turn when Harry’s hair is added?">
+                <answer Correct="true">Gold</answer>
+                <answer Correct="false">Red</answer>
+                <answer Correct="false">Green</answer>
+            </Question>
+
+            <Question Text="According to Mr Ollivander, what is the flexibility of Harry’s wand?">
+                <answer Correct="true">Nice and supple</answer>
+                <answer Correct="false">Surprisingly swishy</answer>
+                <answer Correct="false">Unyielding</answer>
+            </Question>
+
+            <Question Text="In which chapter does Harry learn that Sirius is his godfather?">
+                <answer Correct="false">Grim Defeat</answer>
+                <answer Correct="true">The Marauder's Map</answer>
+                <answer Correct="false">Fligh of the Fat Lady</answer>
+            </Question>
+
+            <Question Text="When Harry first learns he is 'Undesirable Number One’, what is the price on his head?">
+                <answer Correct="false">100,000 Galleons</answer>
+                <answer Correct="false">50,000 Galleons</answer>
+                <answer Correct="true">10,000 Galleons</answer>
+            </Question>
+
+            <Question Text="What is Lord Voldemort’s real name?">
+                <answer Correct="false">Tom Marvin Riddle</answer>
+                <answer Correct="true">Tom Marvolo Riddle</answer>
+                <answer Correct="false">Tom Ravolo Riddle</answer>
+            </Question>
+
+            <Question Text="What is the symbol for the Ravenclaw house?">
+                <answer Correct="true">Eagle</answer>
+                <answer Correct="false">Raven</answer>
+                <answer Correct="false">Crow</answer>
+            </Question>
+
+            <Question Text="Which Harry Potter word is now in the Oxford English Dictionary?">
+                <answer Correct="false">Hogwarts</answer>
+                <answer Correct="false">Voldemort</answer>
+                <answer Correct="true">Muggle</answer>
+            </Question>
+
+            <Question Text="Who were Harry's parents?">
+                <answer Correct="false">Henry and Maggie Potter</answer>
+                <answer Correct="true">James and Lily Potter</answer>
+                <answer Correct="false">William and Elizabeth Potter</answer>
+            </Question>
+
+            <Question Text="Who are the Muggle aunt and uncle that Harry must live with every summer?">
+                <answer Correct="false">Ned and Camilla Diddly</answer>
+                <answer Correct="false">Ralph and Magnolia Dudley</answer>
+                <answer Correct="true">Vernon and Petunia Dursley</answer>
+            </Question>
+
+            <Question Text="In order of birth, who are the seven Weasley siblings?">
+                <answer Correct="false">Percy,Bill,George,Charlie,Fred,Ron,Ginny</answer>
+                <answer Correct="false">George,Fred,Percy,Bill,Charlie,Ron,Ginny</answer>
+                <answer Correct="true">Bill,Charlie,Percy,Fred,George,Ron,Ginny</answer>
+            </Question>
+
+            <Question Text="What are the three Unforgivable Curses?">
+                <answer Correct="false">Impedimenta,Incarcerous and Incendio</answer>
+                <answer Correct="true">Avada Kedavra,Crucio and Imperio</answer>
+                <answer Correct="false">Expelliarmus,Expecto Patronum and Diffindo</answer>
+            </Question>
+
+            <Question Text="Which of these Hogwarts professors teaches Transfiguration?">
+                <answer Correct="false">Snape</answer>
+                <answer Correct="false">Sprout</answer>
+                <answer Correct="true">McGonagall</answer>
+            </Question>
+    </MEDIUM>
+    
+    <EASY>
+            <Question Text="What was Mickey Mouse originally called?">
+                <answer Correct="false">Keith Mouse</answer>
+                <answer Correct="false">Martin Mouse</answer>
+                <answer Correct="true">Mortimer Mouse</answer>
+            </Question>
+
+            <Question Text="Who was Bambi's rabbit pal?">
+                <answer Correct="false">Peter</answer>
+                <answer Correct="true">Thumper</answer>
+                <answer Correct="false">Fiver</answer>
+            </Question>
+
+            <Question Text="Who was Snow White's enemy?">
+                <answer Correct="true">The Evil Queen</answer>
+                <answer Correct="false">Maleficent</answer>
+                <answer Correct="false">Cruella De Vil</answer>
+            </Question>
+
+            <Question Text="What was the name of the man who created Pinocchio?">
+                <answer Correct="false">Lionel</answer>
+                <answer Correct="false">Paul</answer>
+                <answer Correct="true">Geppetto</answer>
+            </Question>
+
+            <Question Text="Who sang the song Under The Sea in the film The Little Mermaid?">
+                <answer Correct="false">Pascal</answer>
+                <answer Correct="false">Nemo</answer>
+                <answer Correct="true">Sebastian</answer>
+            </Question>
+
+            <Question Text="How many wishes did the genie grant Aladdin?">
+                <answer Correct="false">1</answer>
+                <answer Correct="true">3</answer>
+                <answer Correct="false">Unlimited</answer>
+            </Question>
+
+            <Question Text="What is the name of Simba's dad in The Lion King?">
+                <answer Correct="true">Mufasa</answer>
+                <answer Correct="false">Timon</answer>
+                <answer Correct="false">Scar</answer>
+            </Question>
+
+            <Question Text="Who invented 'flubber' in the film of the same name?">
+                <answer Correct="false">Albert Einstein </answer>
+                <answer Correct="true">Professor Philip Brainard</answer>
+                <answer Correct="false">Professor Von Screwtop</answer>
+            </Question>
+
+            <Question Text="Which one of these princesses is NOT part of Disney’s official princess lineup?">
+                <answer Correct="false">Aurora</answer>
+                <answer Correct="false">Merida</answer>
+                <answer Correct="true">Elsa</answer>
+            </Question>
+
+            <Question Text="Who was banned from being one of Walt Disney's animators?">
+                <answer Correct="true">Women</answer>
+                <answer Correct="false">People with criminal record</answer>
+                <answer Correct="false">Grumpy people</answer>
+            </Question>
+
+            <Question Text="Which phrase does the Evil Queen in Snow White actually say?">
+                <answer Correct="false">"Magic mirror, on the wall - who is the prettiest in this world?"</answer>
+                <answer Correct="false">"Magic mirror, on the wall - who is the prittiest of them all?"</answer>
+                <answer Correct="true">"Magic mirror, on the wall - who is the fairest one of all?"</answer>
+            </Question>
+
+            <Question Text="What were Aladdin’s three wishes?">
+                <answer Correct="true">To become a prince, to be rescued from drowning and to free the genie</answer>
+                <answer Correct="false">To become a prince, to never be poor again and to get rid of Jafar forever</answer>
+                <answer Correct="false">To become a prince, to be rescued from drowning and to mary Jasmine</answer>
+            </Question>
+
+            <Question Text="Which movie was NOT based on a Brothers Grimm story?">
+                <answer Correct="false">Tangled</answer>
+                <answer Correct="true">The Little Mermaid</answer>
+                <answer Correct="false">Little Red Riding Hood</answer>
+            </Question>
+
+            <Question Text="In Aladdin, how many years does the Genie say he has been trapped in the lamp?">
+                <answer Correct="true">10,000</answer>
+                <answer Correct="false">1,000,000</answer>
+                <answer Correct="false">100,000</answer>
+            </Question>
+
+            <Question Text="Who was the first Disney princess?">
+                <answer Correct="false">Sleeping Beauty</answer>
+                <answer Correct="false">Belle</answer>
+                <answer Correct="true">Snow White</answer>
+            </Question>
+
+            <Question Text="What fictional country is Prince Naveen from?">
+                <answer Correct="false">Maramorgos</answer>
+                <answer Correct="true">Maldonia</answer>
+                <answer Correct="false">Mypos</answer>
+            </Question>
+
+            <Question Text="What is Boo's real name?">
+                <answer Correct="false">Olive</answer>
+                <answer Correct="false">Eva</answer>
+                <answer Correct="true">Mary</answer>
+            </Question>
+
+            <Question Text="In which Disney movie would you find the character Lady Tremaine?">
+                <answer Correct="false">The Fox and the Hound</answer>
+                <answer Correct="true">Cinderella</answer>
+                <answer Correct="false">Lade and the Tramp</answer>
+            </Question>
+
+            <Question Text="What is the name of the Darlings' dog in Peter Pan?">
+                <answer Correct="false">May</answer>
+                <answer Correct="false">Perdita</answer>
+                <answer Correct="true">Nana</answer>
+            </Question>
+
+            <Question Text="Which of the following was not one of the Seven Dwarfs?">
+                <answer Correct="false">Grumpy</answer>
+                <answer Correct="true">Playful</answer>
+                <answer Correct="false">Sneezy</answer>
+            </Question>
+
+            <Question Text="Which Disney movie was originally planned to be called Kingdom of the Sun?">
+                <answer Correct="false">The Lion King</answer>
+                <answer Correct="false">The Hunchback of Notre-Dame</answer>
+                <answer Correct="true">The Emperor's New Groove</answer>
+            </Question>
+
+            <Question Text="In Sleeping Beauty, what name does Aurora use while living in the woods with her Fairy Godmothers?">
+                <answer Correct="true">Briar Rose</answer>
+                <answer Correct="false">Jasmine Fuschia</answer>
+                <answer Correct="false">Lily Magenta</answer>
+            </Question>
+
+            <Question Text="What was Cri-kee in Mulan?">
+                <answer Correct="false">a sword</answer>
+                <answer Correct="false">a dragon</answer>
+                <answer Correct="true">a cricket</answer>
+            </Question>
+
+            <Question Text="What did Ariel give Ursula in exchange for becoming a human temporarily in The Little Mermaid?">
+                <answer Correct="false">Her royalty</answer>
+                <answer Correct="true">Her voice</answer>
+                <answer Correct="false">Her beauty</answer>
+            </Question>
+
+            <Question Text="What character from Aladdin can be found in The Hunchback of Notre-Dame?">
+                <answer Correct="true">Magic Carpet</answer>
+                <answer Correct="false">Abu</answer>
+                <answer Correct="false">Alladin</answer>
+            </Question>
+    </EASY>
+</quiz>
